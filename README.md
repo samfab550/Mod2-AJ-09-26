@@ -1,5 +1,3 @@
 **Mod2-AJ-09-26**  
    
-    
-   
-  cambio desde main  
+ Esta es la modificacion de la rama 2 en el readme fanh  
